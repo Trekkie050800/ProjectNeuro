@@ -1,9 +1,0 @@
-Persistent Time
-
-Create Event:
-
-time = 0;
-
-Step Event:
-
-time += 1/room_speed;
